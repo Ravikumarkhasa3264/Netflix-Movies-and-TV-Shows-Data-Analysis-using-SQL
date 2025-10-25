@@ -1,0 +1,2 @@
+# Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL
+This project analyzes the Netflix dataset using SQL Server (SSMS) to gain insights into movies and TV shows. The dataset contains details such as titles, release years, countries, cast, directors, duration, genres, ratings, and descriptions. The goal is to practice SQL queries and extract meaningful information from real-world streaming content.
